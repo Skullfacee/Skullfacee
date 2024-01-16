@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skullfacee
+- 👋 Hi, I’m @Marcus
 - 👀 I’m interested in learning how to become an efficient developer 
 - 🌱 I’m currently learning Python/HTML/CSS/JavaScript/Git
 
